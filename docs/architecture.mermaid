@@ -1,0 +1,11 @@
+flowchart LR
+    U["Service tech / Warranty admin<br/>(Microsoft Teams)"] --> C["Field-Failure Warranty Packet Agent<br/>Microsoft 365 Copilot · Copilot Studio"]
+    C -- "named tool call" --> W["Work IQ MCP<br/>SearchMessages · SearchTeamsMessages"]
+    W --> E["Cross-silo M365 signals<br/>customer emails · tech Teams threads<br/>service-huddle meeting recap"]
+    C --> K["Grounded knowledge sources<br/>warranty policy · parts spec · unit registry"]
+    C --> R["Six-step reasoning chain<br/>identify → timeline → classify →<br/>eligibility → gap analysis → score"]
+    R --> A["Adaptive Card v1.5 approval gate<br/>7/9: file path locked · 9/9: unlocked<br/>text-label status (accessibility)"]
+    A -- "Action.Submit" --> P["Power Automate<br/>switch on action"]
+    P -- "request_items" --> T["Teams message to field tech<br/>(missing-item request)"]
+    P -- "approve (9/9 only)" --> S["SharePoint Warranty Claims list<br/>write + read-back verification"]
+    W -. "call fails / empty" .-> F["Fallback: policy-only draft<br/>declared to user · never fabricates"]
