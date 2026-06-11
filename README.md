@@ -3,7 +3,7 @@
 > **Microsoft Agents League @ AI Skills Fest 2026 — Enterprise Agents track (Microsoft 365 Copilot)**
 > Built solo in Copilot Studio. Integrates **Work IQ via the Work IQ MCP** as a named orchestration tool.
 
-Reconstructs warranty claims from scattered M365 signals — customer emails, technician Teams threads, service Teams meeting transcripts — checks policy eligibility, flags documentation gaps, and produces a cited packet for human approval before filing.
+Reconstructs warranty claims from scattered M365 signals — customer emails, technician Teams threads, service-huddle Teams meeting notes — checks policy eligibility, flags documentation gaps, and produces a cited packet for human approval before filing.
 
 **Demo video:** _[YouTube link — added at submission]_
 
