@@ -80,3 +80,23 @@ looked clean**, no grit or milkiness that he noticed. And we were only about **t
 loaded** when it happened. Hope that helps the claim.
 
 Dale
+
+---
+
+## Email 5 — Gap closure (internal, tech → warranty admin)  ✅ pull
+
+**From:** Marco Reyes <marco.reyes@contosomaterial.example>
+**To:** Priya Nair <priya.nair@contosomaterial.example>
+**Date:** Wed, 2026-06-03, 8:47 AM PT
+**Subject:** SN-4471 GlideFloor — photo + hour-meter (closes Trailer 12 claim)
+**Attachment:** trailer12_SN-4471_failed_seal_CGF-DCS-114.jpg
+
+Priya — closing the loop on Trailer 12 / SN-4471. Went back out this morning.
+
+Photo of the failed rod seal attached (bagged — extrusion damage visible on the lip).
+Also pulled the hour-meter from the control box: **1,912 hours / 41,300 cycles** at
+time of failure.
+
+That should complete the claim packet.
+
+Marco
