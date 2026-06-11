@@ -11,5 +11,5 @@ demo tenant — Work IQ retrieves live signals, not repo files. Allow indexing t
 | 03-unit-registry.csv | Unit registry — knowledge source |
 | 04-customer-emails.md | 5 emails incl. 1 deliberate decoy (Trailer 14 reorder) + gap-closure w/ photo + hours (Jun 3) |
 | 05-teams-threads.md | Tech threads: Reyes/Okafor (Jun 1), Reyes/Nair (Jun 2) |
-| 06-service-huddle-recap.md | Meeting recap, June 1 |
+| 06-service-huddle-recap.md | Meeting recap, June 2 |
 | evidence/trailer12_SN-4471_failed_seal_CGF-DCS-114.jpg | AI-generated synthetic photo of the failed seal |
