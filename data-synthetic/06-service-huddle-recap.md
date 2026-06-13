@@ -4,8 +4,8 @@
 > as a *meeting* signal, hold a short real meeting in the demo tenant with this as the agenda
 > so a transcript/recap exists; otherwise seed it as a meeting-notes message.
 
-**Meeting:** Field Service Daily Huddle
-**Date:** 2026-06-02, 9:00 AM PT (15 min)
+**Meeting:** Meeting with Redpoint Freight - Field Service Daily Huddle
+**Date:** 2026-06-04, 9:00 AM PT (15 min)
 **Attendees:** Tom Whitfield (Service Lead), Marco Reyes (Field Tech), Priya Nair (Warranty Admin)
 
 ---
